@@ -1,5 +1,5 @@
 # Hackaton-8
-
+RETO 1
 ¿Cuál es la importancia de usar un algoritmo?
 Un algoritmo es un proceso su importacina radica en que muestra la manera correcta de realizar las acciones, en un proceso es muy importante debido a que te permite ver cual es la accion que esta de mas.
 
@@ -14,7 +14,7 @@ En una empresa un algortimo puede realizar tareas repetitivas y analizar solucio
 • ¿El algoritmo expuesto en este caso es el único con el que cuenta TuTienda?
 No, debido a que el funcionamiento de la empresa al ser un servicio ecommer, esta estructurada en los algoritmos.
 
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
